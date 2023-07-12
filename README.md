@@ -77,6 +77,6 @@ $ ./install.sh
 or
 
 ```bash
-$ cd Hyprland-dotfiles
+$ cd NixOS
 $ sudo nixos-rebuild switch --flake .#lume
 ```
