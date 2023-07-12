@@ -1,5 +1,3 @@
-**English** | [Portuguese (PT-BR)](README.md)
-
 <p align="center"><img src="https://i.imgur.com/X5zKxvp.png" width=300px></p>
 
 <p align="center">
@@ -13,7 +11,7 @@
 
 <p align="center"><img src="https://i.imgur.com/NbxQ8MY.png" width=600px></p>
 
-<h2 align="center">HeinzDev NixOS Dotfiles</h2>
+<h2 align="center">LuMe NixOS Dotfiles</h2>
 
 
 ### Apps:
@@ -67,7 +65,7 @@ Desktop Environment:
 
 0. Download the project:
 ```bash
- $ git clone https://github.com/HeinzDev/Nix-Dotfiles.git | cd Hyprland-dotfiles.git
+ $ git clone https://github.com/lmenale/NixOS.git | cd Hyprland-dotfiles.git
 ```
 
 1. Install the project:
