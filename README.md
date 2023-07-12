@@ -65,7 +65,7 @@ Desktop Environment:
 
 0. Download the project:
 ```bash
- $ git clone https://github.com/lmenale/NixOS.git | cd Hyprland-dotfiles.git
+ $ git clone https://github.com/lmenale/NixOS.git | cd NixOS
 ```
 
 1. Install the project:
